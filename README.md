@@ -20,7 +20,9 @@
 
 ## 其他 数据生成与后处理使用方法
 - 查看readme.txt
-- 
+## 已经转换好的训练数据集
+- 链接: https://pan.baidu.com/s/1qJ1fXO7RuoFiYDTHKVdsTA 提取码: gtsn 复制这段内容后打开百度网盘手机App，操作更方便哦
+--来自百度网盘超级会员v4的分享
 ## 可视化实例
 ### 例子
 ![0](https://github.com/tommyMessi/PST-table/blob/main/asset/0.png)
