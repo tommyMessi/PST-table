@@ -32,5 +32,9 @@
 ![256](https://github.com/tommyMessi/PST-table/blob/main/asset/256.png)
 ![2560](https://github.com/tommyMessi/PST-table/blob/main/asset/2560.png)
 
+### 预训练模型
+链接: https://pan.baidu.com/s/1adwB9wU-nyK1qjagcxUH1g 提取码: t6vi 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v4的分享
+
 ## 模型原理
 具体模型原理 关注微信公众账号 hulugeAI 
