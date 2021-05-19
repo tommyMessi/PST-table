@@ -181,7 +181,7 @@ def excel_gt_json_generate():
     excel_path = '/home/gita/Downloads/rr_table/excel/'
     text_path = '/home/gita/Downloads/rr_table/text/'
     html_path = '/home/gita/Downloads/rr_table/html/'
-    father_path_file = '/home/gita/Downloads/datayes_final/datayes_f.txt'
+    father_path_file = '/home/gita/Downloads/final/f.txt'
 
     gt_json_file = './src/rr_gt.json'
 
@@ -285,11 +285,11 @@ def excel_pred_json_generate():
     error_count = 0
     text_path = '/home/gita/Downloads/rr_table/text/'
 
-    uf_path = '/home/gita/Downloads/datayes_final/f1/'
-    df_path = '/home/gita/Downloads/datayes_final/f2/'
-    lm_path = '/home/gita/Downloads/datayes_final/m1/'
-    rm_path = '/home/gita/Downloads/datayes_final/m2/'
-    img_path_txt = '/home/gita/Downloads/datayes_final/datayes_f.txt'
+    uf_path = '/home/gita/Downloads/final/f1/'
+    df_path = '/home/gita/Downloads/final/f2/'
+    lm_path = '/home/gita/Downloads/final/m1/'
+    rm_path = '/home/gita/Downloads/final/m2/'
+    img_path_txt = '/home/gita/Downloads/final/f.txt'
 
     pred_html_path = './recovered_html/rr_html/'
     pred_json_file = './src/rr_pred.json'
